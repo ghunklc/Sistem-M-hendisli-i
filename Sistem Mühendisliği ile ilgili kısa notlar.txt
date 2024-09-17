@@ -1,0 +1,28 @@
+Sistem Mühendisliði ile ilgili kýsa notlar:
+-------------------------------------------
+
+Sistem kavramýný ilk kullanan kiþi Ludwig von Bertalanffy (1950, 1968),  sistemi etkileþim halindeki “parçalardan” oluþan bir “bütün” olarak kabul eder.
+
+Eksiksiz bir sistem, amaçlanan ortamda kendi kendine yeterli kullaným için gerekli dereceye kadar operasyonlar ve destek için gerekli tüm ilgili ekipmaný, tesisleri, malzemeleri, bilgisayar programlarýný, ürün yazýlýmýný, teknik belgeleri, hizmetleri ve personeli içerir.
+
+“Sistem mühendisliði” terimi 1940'larýn baþýnda Bell Telephone Laboratories'de ortaya çýkmýþtýr (Fagen, 1978; Hall, 1962; Schlager, 1956). 
+
+Fagen (1978), Bell Sistemindeki sistem mühendisliði kavramlarýnýn izini 1900'lerin baþýna kadar sürmekte ve Ýkinci Dünya Savaþý sýrasýnda sistem mühendisliðinin önemli uygulamalarýný tanýmlamaktadýr. 
+
+Ýngilizler 1930'larda hava savunma sistemlerini analiz etmek için çok disiplinli ekipler kullanmýþtýr (Martin, 1996). 
+
+RAND Corporation 1946 yýlýnda Birleþik Devletler Hava Kuvvetleri tarafýndan kurulmuþtur ve “sistem analizini” yarattýðýný iddia etmektedir. 
+
+Hall (1962), bugün bildiðimiz anlamda sistem mühendisliðini öðretmeye yönelik ilk giriþimin 1950 yýlýnda MIT'de Bell Sistem Mühendisliði Direktörü Bay Gilman tarafýndan gerçekleþtirildiðini ileri sürmektedir. 
+
+TRW (þu anda Northrop Grumman'ýn bir parçasý) 1950'lerin sonunda balistik füzelerle ilgili çalýþmalarý desteklemek için sistem mühendisliðini “icat ettiðini” iddia etmektedir. 
+
+
+Goode ve Machol (1957) 1957 yýlýnda sistem mühendisliði üzerine ilk kitabý yazmýþlardýr. System Engineering; an Introduction to the Design of Large-Scale Systems
+
+1990 yýlýnda, ABD'deki çeþitli þirket ve kuruluþlarýn temsilcileri tarafýndan sistem mühendisliði için profesyonel bir topluluk olan Ulusal Sistem Mühendisliði Konseyi (NCOSE) kurulmuþtur.
+
+ABD dýþýndaki sistem mühendisliði uygulayýcýlarýnýn artan katýlýmýnýn bir sonucu olarak, kuruluþun adý 1995 yýlýnda Uluslararasý Sistem Mühendisliði Konseyi (INCOSE) olarak deðiþtirilmiþtir.
+
+
+

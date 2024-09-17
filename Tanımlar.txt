@@ -1,0 +1,221 @@
+Tanýmlar
+---------------------------------------------------------------
+
+
+Systems Engineering is a transdisciplinary and integrative approach to enable the successful realization, use, and retirement of engineered systems, using systems principles and concepts, and scientific, technological, and management methods.
+
+Sistem Mühendisliði, sistem ilkeleri ve kavramlarý ile bilimsel, teknolojik ve yönetim yöntemlerini kullanarak mühendislik sistemlerinin baþarýlý bir þekilde gerçekleþtirilmesini, kullanýlmasýný ve emekliye ayrýlmasýný saðlayan disiplinler arasý ve bütünleþtirici bir yaklaþýmdýr.
+
+----------------------------------------------------------------
+
+
+
+A system is an arrangement of parts or elements that together exhibit behavior or meaning that the individual constituents do not.
+
+Bir sistem, tek baþlarýna sergilemediði davranýþ veya anlamý ancak bir bütün halindeyken sergileyen parçalarýn veya unsurlarýn bir araya getirilmiþ halidir.
+
+----------------------------------------------------------------
+
+
+An engineered system is a system designed or adapted to interact with an anticipated operational environment to achieve one or more intended purposes while complying with applicable constraints.
+
+Bir mühendislik sistemi, geçerli kýsýtlamalara uyarken bir veya daha fazla amaca ulaþmak için öngörülen bir operasyonel ortamla etkileþime girmek üzere tasarlanmýþ veya uyarlanmýþ bir sistemdir.
+
+----------------------------------------------------------------
+
+system environment or context 
+sistem ortamý veya baðlamý 
+
+elements that specifically do not belong to the system but do interact with the system
+
+sisteme ait olmayan ancak sistemle etkileþim içinde olan unsurlar
+
+----------------------------------------------------------------
+
+ system boundary / sistem sýnýrý 
+
+a “line of demarcation” between the system under consideration, called the system of interest (SoI), and its greater context
+
+SoI olarak adlandýrýlan söz konusu sistem ile daha geniþ baðlamý arasýndaki bir “sýnýr çizgisidir” 
+
+----------------------------------------------------------------
+
+system architecture / sistem mimarisi
+
+Fundamental concepts or properties of an entity in its environment and governing principles for the realization and evolution
+of this entity and its related life cycle processes
+
+çevresindeki bir varlýðýn temel kavramlarý veya özellikleri ve bu varlýðýn ve ilgili yaþam döngüsü süreçlerinin gerçekleþtirilmesi ve evrimi için yönetim ilkeleri
+
+----------------------------------------------------------------
+
+Engineering can be regarded as the practice of creating and sustaining systems, services, devices, machines, structures, processes, and products to improve the quality of life—getting things done effectively and efficiently
+
+Mühendislik, iþlerin etkili ve verimli bir þekilde yapýlmasýný saðlayarak yaþam kalitesini artýrmak için sistemler, hizmetler, cihazlar, makineler, yapýlar, süreçler ve ürünler oluþturma ve sürdürme uygulamasý olarak kabul edilebilir. 
+
+----------------------------------------------------------------
+
+An attribute of a system (or system element) is an observable characteristic or property of the system (or system element).
+
+Bir sistemin (veya sistem elemanýnýn) özniteliði, sistemin (veya sistem elemanýnýn) gözlemlenebilir bir karakteristiði veya özelliðidir. 
+
+----------------------------------------------------------------
+
+Emergence describes the phenomenon that whole entities exhibit properties which are meaningful only when attributed to the whole, not to its elements.
+
+Ortaya çýkma, bütün varlýklarýn, unsurlarýna deðil, yalnýzca bütüne atfedildiðinde anlamlý olan özellikler sergilemesi olgusunu tanýmlar. 
+Sistem parçalarýnýn tek baþlarýna yapamazken sistem halinde çalýþýrken ortaya çýkan özellikler. 
+Sistemin sahip olduðu ancak unsurlarýn tek baþýna sahip olmadýðý özellikler.
+
+----------------------------------------------------------------
+
+System elements interact between themselves and can create desirable or undesirable phenomena called emergent properties such as inhibition, interference, resonance, or reinforcement of any property.
+
+Sistem elemanlarý kendi aralarýnda etkileþime girer ve inhibisyon, giriþim, rezonans veya herhangi bir özelliðin güçlendirilmesi gibi ortaya çýkan özellikler adý verilen istenen veya istenmeyen fenomenler yaratabilir.
+
+----------------------------------------------------------------
+
+External systems are systems beyond (or outside of) the SoI boundary. 
+Harici sistemler, ilgi alaný sistemin sýnýrýnýn ötesinde (veya dýþýnda) sistemlerdir. 
+
+----------------------------------------------------------------
+
+Interfacing systems are external systems that share an interface (e.g., physical, material, energy, data/information) with the SoI. 
+Arayüz sistemleri, ilgi alaný sistem ile bir arayüzü (örneðin fiziksel, maddi, enerji, veri/bilgi) paylaþan harici sistemlerdir. 
+
+----------------------------------------------------------------
+
+Interoperating systems are interfacing systems that interface with the SoI in its operational environment to perform a common function that supports the SoI’s primary purpose.
+Ýþletim sistemleri, iþletim ortamýnda ilgi alaný sistem ile arayüz kuran ve ilgi alaný sistemin birincil amacýný destekleyen ortak bir iþlevi yerine getiren arayüz sistemleridir. 
+
+----------------------------------------------------------------
+
+Enabling systems are external systems that facilitate the life cycle activities of the SoI but are not a direct element of the operational environment.
+Etkinleþtirme sistemleri, ilgi alaný sitemin yaþam döngüsü faaliyetlerini kolaylaþtýran ancak iþletim ortamýnýn doðrudan bir öðesi olmayan harici sistemlerdir. 
+
+----------------------------------------------------------------
+States are snapshots of a set of variables or measurements needed to describe fully the system’s capabilities to perform the system’s functions. 
+Durumlar, sistemin iþlevlerini yerine getirme yeteneklerini tam olarak tanýmlamak için gereken bir dizi deðiþkenin veya ölçümün anlýk görüntüleridir. 
+
+----------------------------------------------------------------
+
+State variables are the multidimensional list of variables that determine the state of the system. 
+Durum deðiþkenleri, sistemin durumunu belirleyen çok boyutlu deðiþkenler listesidir. 
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+
+
